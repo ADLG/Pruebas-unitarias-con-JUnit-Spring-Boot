@@ -4,11 +4,11 @@ En este repositorio se encuentra un proyecto sencillo donde se realizan pruebas/
 
 ### Especificaciones:
 
-Project - Maven
-Language - Java
-Spring Boot - 3.2.2
-Packaging - Jar
-Java - 17
+Project - Maven <br>
+Language - Java <br>
+Spring Boot - 3.2.2 <br>
+Packaging - Jar <br>
+Java - 17 <br>
 
 Dependencias:
 * `spring-boot-starter-parent`
